@@ -1,0 +1,8 @@
+{
+    "elements": {},
+    "attributes": {
+        "max-age": {
+            "context": "meta"
+        }
+    }
+}
