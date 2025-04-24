@@ -11,5 +11,5 @@ Various projects (school or personal) showcasing my programming ability.
   - Full Twitter functionality (e.g. profile, post text/link/image, like, comment, favorite, feed)
 
 - DnD_Char_Gen
-  - Based on [ThatCoolNerds Python project.](https://github.com/ThatCoolNerd/dnd_5e_character_generator)
+  - Based on [ThatCoolNerd's Python project.](https://github.com/ThatCoolNerd/dnd_5e_character_generator)
   - Developed as a self teaching exercize to learn Python and eventually Pandas.
