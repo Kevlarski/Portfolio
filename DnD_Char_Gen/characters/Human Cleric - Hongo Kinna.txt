@@ -1,0 +1,18 @@
+
+
+
+                          Hongo Kinna, A Human Cleric                           
+--------------------------------------------------------------------------------
+                        |     STR 14     WIS 16     |
+                        |     DEX 11     INT  9     |
+                        |     CON 15     CHA 10     |
+--------------------------------------------------------------------------------
+
+   Description: Hongo is Chaotic Evil, 80 years old, and has a net worth of
+                11 GP.
+
+   Appearance : Hongo is wearing slightly-tattered clothing, and is poor, but
+                is wearing untattered clothing.
+
+   Wielding   : Hongo wields a Sling.
+

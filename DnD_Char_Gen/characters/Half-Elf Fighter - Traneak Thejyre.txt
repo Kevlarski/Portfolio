@@ -1,0 +1,17 @@
+
+
+
+                      Traneak Thejyre, A Half-Elf Fighter                       
+--------------------------------------------------------------------------------
+                        |     STR 10     WIS 10     |
+                        |     DEX 12     INT 17     |
+                        |     CON 15     CHA  9     |
+--------------------------------------------------------------------------------
+
+   Description: Traneak is Lawful Good, 143 years old, and has a net worth of
+                89 GP.
+
+   Appearance : Traneak is wearing ring mail, and appears taken care of.
+
+   Wielding   : Traneak wields a Warpick.
+

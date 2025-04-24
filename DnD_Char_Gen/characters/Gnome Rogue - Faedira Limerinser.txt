@@ -1,0 +1,17 @@
+
+
+
+                       Faedira Limerinser, A Gnome Rogue                        
+--------------------------------------------------------------------------------
+                        |     STR  7     WIS 12     |
+                        |     DEX 16     INT 12     |
+                        |     CON 13     CHA 16     |
+--------------------------------------------------------------------------------
+
+   Description: Faedira is Lawful Good, 390 years old, and has a net worth of
+                48 GP.
+
+   Appearance : Faedira is wearing padded leather, and is poor.
+
+   Wielding   : Faedira wields a handful of darts.
+

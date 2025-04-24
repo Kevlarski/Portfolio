@@ -1,0 +1,18 @@
+
+
+
+                       Horril Davaris, A Half-Elf Wizard                        
+--------------------------------------------------------------------------------
+                        |     STR  9     WIS 12     |
+                        |     DEX 13     INT 15     |
+                        |     CON 14     CHA  6     |
+--------------------------------------------------------------------------------
+
+   Description: Horril is Neutral Evil, 203 years old, and has a net worth of
+                64 GP.
+
+   Appearance : Horril is wearing hide, and looks like they've had steady
+                work for years.
+
+   Wielding   : Horril wields a Sling.
+

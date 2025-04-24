@@ -1,0 +1,17 @@
+
+
+
+                       Sikudat Drassen, A Tiefling Rogue                        
+--------------------------------------------------------------------------------
+                        |     STR  8     WIS 13     |
+                        |     DEX 16     INT 16     |
+                        |     CON 15     CHA 10     |
+--------------------------------------------------------------------------------
+
+   Description: Sikudat is Chaotic Evil, 75 years old, and has a net worth of
+                59 GP.
+
+   Appearance : Sikudat is wearing padded leather, and appears taken care of.
+
+   Wielding   : Sikudat wields a Sling.
+

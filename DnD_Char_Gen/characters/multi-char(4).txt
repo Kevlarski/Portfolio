@@ -1,0 +1,71 @@
+
+
+
+                     Xilvyre Omaceran, A Half-Elf Paladin                       
+--------------------------------------------------------------------------------
+                        |     STR 13     WIS 10     |
+                        |     DEX 13     INT 16     |
+                        |     CON 12     CHA 12     |
+--------------------------------------------------------------------------------
+
+   Description: Xilvyre is Lawful Neutral, 139 years old, and has a net worth
+                of 354 GP.
+
+   Appearance : Xilvyre is wearing breastplate, and is wealthy.
+
+   Wielding   : Xilvyre wields a a handful of darts.
+
+
+
+
+                       Bannoa Clockbang, A Gnome Fighter                        
+--------------------------------------------------------------------------------
+                        |     STR 11     WIS 16     |
+                        |     DEX 14     INT 17     |
+                        |     CON 10     CHA  9     |
+--------------------------------------------------------------------------------
+
+   Description: Bannoa is Lawful Evil, 264 years old, and has a net worth of
+                341 GP.
+
+   Appearance : Bannoa is wearing scale male, and is well-groomed, indicating
+                decent wealth.
+
+   Wielding   : Bannoa wields a Hand Crossbow.
+
+
+
+
+                      Oruhim Goldpeach, A Gnome Sorcerer                        
+--------------------------------------------------------------------------------
+                        |     STR 15     WIS  7     |
+                        |     DEX 13     INT 12     |
+                        |     CON 12     CHA 15     |
+--------------------------------------------------------------------------------
+
+   Description: Oruhim is Lawful Neutral, 264 years old, and has a net worth
+                of 398 GP.
+
+   Appearance : Oruhim is wearing breastplate, and has been fortunate and
+                their outward appears shows it.
+
+   Wielding   : Oruhim wields a Javelin.
+
+
+
+
+                         Eltran Ezzyn, A Halfling Monk                          
+--------------------------------------------------------------------------------
+                        |     STR 10     WIS 12     |
+                        |     DEX 17     INT 15     |
+                        |     CON 14     CHA 17     |
+--------------------------------------------------------------------------------
+
+   Description: Eltran is Lawful Neutral, 75 years old, and has a net worth
+                of 480 GP.
+
+   Appearance : Eltran is wearing plate, and has been fortunate and their
+                outward appears shows it.
+
+   Wielding   : Eltran wields a Shortbow.
+

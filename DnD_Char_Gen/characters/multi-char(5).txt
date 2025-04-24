@@ -1,0 +1,88 @@
+
+
+
+                        Samara Chiffball, A Dwarf Bard                          
+--------------------------------------------------------------------------------
+                        |     STR  8     WIS  9     |
+                        |     DEX 13     INT 11     |
+                        |     CON 16     CHA 12     |
+--------------------------------------------------------------------------------
+
+   Description: Samara is Lawful Good, 454 years old, and has a net worth of
+                513 GP.
+
+   Appearance : Samara is wearing breastplate, and is extremely wealthy.
+
+   Wielding   : Samara wields a Blowgun.
+
+
+
+
+                           Alenwe Elond, An Elf Monk                            
+--------------------------------------------------------------------------------
+                        |     STR 14     WIS 11     |
+                        |     DEX 10     INT 14     |
+                        |     CON 12     CHA 15     |
+--------------------------------------------------------------------------------
+
+   Description: Alenwe is Chaotic Evil, 501 years old, and has a net worth of
+                811 GP.
+
+   Appearance : Alenwe is wearing half plate, and is extremely wealthy but is
+                not very outward about it.
+
+   Wielding   : Alenwe wields a Sling.
+
+
+
+
+                     Sikudat Gaabaad, A Tiefling Sorcerer                       
+--------------------------------------------------------------------------------
+                        |     STR 13     WIS 17     |
+                        |     DEX 15     INT 12     |
+                        |     CON  8     CHA 17     |
+--------------------------------------------------------------------------------
+
+   Description: Sikudat is Chaotic Neutral, 28 years old, and has a net worth
+                of 822 GP.
+
+   Appearance : Sikudat is wearing scale male, and is extremely wealthy but
+                is not very outward about it.
+
+   Wielding   : Sikudat wields a Net.
+
+
+
+
+                     Vergrace Greenbottle, A Halfling Bard                      
+--------------------------------------------------------------------------------
+                        |     STR 14     WIS 11     |
+                        |     DEX 10     INT 14     |
+                        |     CON 11     CHA  8     |
+--------------------------------------------------------------------------------
+
+   Description: Vergrace is Chaotic Evil, 34 years old, and has a net worth
+                of 17 GP.
+
+   Appearance : Vergrace is wearing chain shirt, and is poor.
+
+   Wielding   : Vergrace wields a Mace.
+
+
+
+
+                     Odahana Mekkasteamer, A Gnome Fighter                      
+--------------------------------------------------------------------------------
+                        |     STR 16     WIS 14     |
+                        |     DEX 15     INT 10     |
+                        |     CON 15     CHA 11     |
+--------------------------------------------------------------------------------
+
+   Description: Odahana is Chaotic Good, 163 years old, and has a net worth
+                of 905 GP.
+
+   Appearance : Odahana is wearing leather, and is well-groomed. Their
+                expensive-smelling fragrance is wofting through the air.
+
+   Wielding   : Odahana wields a Greatsword.
+

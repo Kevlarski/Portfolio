@@ -1,0 +1,53 @@
+
+
+
+                      Torinn Carek, A Dragonborn Fighter                        
+--------------------------------------------------------------------------------
+                        |     STR 13     WIS 12     |
+                        |     DEX 13     INT 13     |
+                        |     CON 11     CHA 14     |
+--------------------------------------------------------------------------------
+
+   Description: Torinn is True Neutral, 17 years old, and has a net worth of
+                514 GP.
+
+   Appearance : Torinn is wearing ring mail, and has extravagent clothing and
+                they are very well-groomed.
+
+   Wielding   : Torinn wields a Longbow.
+
+
+
+
+                      Qibyn Dusthorn, A Halfling Sorcerer                       
+--------------------------------------------------------------------------------
+                        |     STR  8     WIS 12     |
+                        |     DEX  8     INT 15     |
+                        |     CON 11     CHA  9     |
+--------------------------------------------------------------------------------
+
+   Description: Qibyn is Lawful Evil, 97 years old, and has a net worth of
+                301 GP.
+
+   Appearance : Qibyn is wearing chain mail, and is well-groomed, indicating
+                decent wealth.
+
+   Wielding   : Qibyn wields a Glaive.
+
+
+
+
+                     Tylzira Cailynn, A Half-Elf Barbarian                      
+--------------------------------------------------------------------------------
+                        |     STR 14     WIS 10     |
+                        |     DEX 16     INT  9     |
+                        |     CON 10     CHA 15     |
+--------------------------------------------------------------------------------
+
+   Description: Tylzira is Chaotic Evil, 128 years old, and has a net worth
+                of 414 GP.
+
+   Appearance : Tylzira is wearing chain shirt, and is wealthy.
+
+   Wielding   : Tylzira wields a Hand Crossbow.
+
