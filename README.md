@@ -2,11 +2,11 @@
 
 Various projects (school or personal) showcasing my programming ability.
 
--What's-4-Dinner
+- What's-4-Dinner
   - PHP based web app that allows users to create a profile, log in, and store ingredients on hand for suggested recipes the user can make with the provided ingredients.
   - Final project for Sofware Engineering (SDLC) class
 
--Quack
+- Quack
   - Twitter clone built with JSP used as Web Development final project.
   - Full Twitter functionality (e.g. profile, post text/link/image, like, comment, favorite, feed)
 
